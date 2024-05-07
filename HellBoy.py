@@ -10,7 +10,7 @@ def carregar_dirs(nome_arquivo):
         return []
 
 def Hellboy():
-    nome_arquivo = "/home/anonymous/small.txt"
+    nome_arquivo = "caminho para wordlist"
     dirs = carregar_dirs(nome_arquivo)
     if not dirs:
         return  # Encerra a função se não foi possível carregar os diretórios
