@@ -14,6 +14,4 @@ Breve descrição do projeto.
 
 ```bash
 git clone https://github.com/KleytonRomao/HellBoy.git
-
-```bash
 python3 Hellboy.py
