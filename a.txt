@@ -1,8 +1,7 @@
-images
+
 css
 LC_MESSAGES
 js
-tmpl
 lang
 default
 README

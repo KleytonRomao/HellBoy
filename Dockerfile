@@ -12,7 +12,7 @@ WORKDIR /app
 RUN wget -O Directories_All.wordlist https://raw.githubusercontent.com/emadshanab/WordLists-20111129/master/Directories_All.wordlist
 
 # Copie todos os arquivos do diretório de trabalho atual para o diretório /app no container
-COPY . .
+COPY . /app 
 
 # Execute o script Python
 CMD ["python3", "Hellboy.py"]

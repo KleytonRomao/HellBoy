@@ -73,4 +73,3 @@ if __name__ == "__main__":
     Hellboy.logo()  # Chama a função para imprimir o logotipo
     u_rl = input("Url: ")
     Hellboy.url_validador(u_rl)  # Chama a função principal
-### https://www.xvideos.com/
