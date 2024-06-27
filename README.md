@@ -12,8 +12,8 @@ Breve descrição do projeto.
 
 ## Instalação
 
-'''
+```bash
 git clone https://github.com/KleytonRomao/HellBoy.git
-python3 Hellboy.py
 
-'''
+```bash
+python3 Hellboy.py
